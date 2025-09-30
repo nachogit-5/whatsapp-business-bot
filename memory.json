@@ -1,0 +1,13 @@
+{
+  "conversations": [],
+  "learned_patterns": {},
+  "user_preferences": {},
+  "conversation_history": [],
+  "error_log": [],
+  "performance_metrics": {
+    "total_messages_processed": 0,
+    "successful_responses": 0,
+    "failed_responses": 0,
+    "average_confidence": 0.0
+  }
+}
