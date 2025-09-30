@@ -1,27 +1,12 @@
-# WhatsApp Business Bot con Aprendizaje Automático
+# cat > README.md << 'EOF'
+# WhatsApp Business Bot para Termux
 
-Un chatbot inteligente para WhatsApp Business que aprende de sus errores y mejora con el tiempo.
+Bot automático para WhatsApp Business con capacidad de aprendizaje.
 
-## Características
-
-- 🤖 Chatbot automático para WhatsApp Business
-- 🧠 Aprendizaje automático con scikit-learn
-- 📚 Memoria persistente en JSON
-- 🔄 Aprendizaje continuo de errores
-- 📱 Compatible con Termux (Android)
-
-## Instalación en Termux
-
-1. Instala Termux desde F-Droid
-2. Ejecuta los siguientes comandos:
+## 🚀 Instalación Rápida
 
 ```bash
-# Clonar el repositorio
 git clone https://github.com/tuusuario/whatsapp-business-bot.git
 cd whatsapp-business-bot
-
-# Dar permisos de ejecución
-chmod +x start.sh
-
-# Ejecutar el script de instalación
-./start.sh
+chmod +x install.sh
+./install.sh
