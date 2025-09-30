@@ -1,1 +1,10 @@
-.
+{
+  "saludos": ["hola", "buenos días", "buenas tardes", "hey", "saludos", "qué tal"],
+  "despedidas": ["adiós", "chao", "hasta luego", "nos vemos", "bye", "hasta pronto"],
+  "productos": ["qué productos tienen", "qué venden", "catálogo", "productos", "mercancía"],
+  "precios": ["precios", "cuánto cuesta", "valor", "costo", "precio"],
+  "horario": ["horario de atención", "cuándo abren", "horarios", "atención al cliente"],
+  "ubicacion": ["dónde están", "ubicación", "dirección", "local", "direccion"],
+  "servicio": ["necesito ayuda", "soporte", "atención al cliente", "asistencia"],
+  "agradecimientos": ["gracias", "muchas gracias", "te agradezco", "thanks"]
+}
