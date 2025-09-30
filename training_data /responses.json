@@ -1,0 +1,42 @@
+{
+  "saludos": [
+    "¡Hola! 👋 ¿En qué puedo ayudarte hoy?",
+    "¡Buenos días! 🌞 Soy tu asistente virtual, ¿cómo puedo asistirte?",
+    "¡Hola! 😊 Estoy aquí para ayudarte con lo que necesites"
+  ],
+  "despedidas": [
+    "¡Hasta luego! 👋 Que tengas un excelente día",
+    "¡Chao! 😊 Estamos para servirte cuando lo necesites",
+    "¡Nos vemos! 💫 Que todo te vaya muy bien"
+  ],
+  "productos": [
+    "Tenemos una amplia variedad de productos. ¿Qué tipo de producto te interesa? 📦",
+    "Nuestro catálogo incluye diferentes categorías. ¿Buscas algo específico? 🛍️"
+  ],
+  "precios": [
+    "Los precios varían según el producto. ¿Cuál te interesa para darte el precio exacto? 💰",
+    "Puedo darte precios específicos. ¿Qué producto quieres consultar? 🏷️"
+  ],
+  "horario": [
+    "⏰ Atendemos de lunes a viernes de 8:00 AM a 6:00 PM y sábados de 9:00 AM a 1:00 PM",
+    "🕘 Nuestro horario de atención es: Lunes a Viernes 8:00-18:00, Sábados 9:00-13:00"
+  ],
+  "ubicacion": [
+    "📍 Estamos ubicados en Av. Principal #123, Centro Comercial Plaza, Local 45",
+    "🏢 Puedes encontrarnos en: Av. Principal #123, CC Plaza, Local 45"
+  ],
+  "servicio": [
+    "🔧 Claro, estoy aquí para ayudarte. ¿En qué necesitas asistencia específicamente?",
+    "💡 Cuéntame qué problema tienes o en qué necesitas ayuda para asistirte mejor"
+  ],
+  "agradecimientos": [
+    "¡De nada! 😊 Estoy para ayudarte cuando lo necesites",
+    "¡No hay problema! 🌟 Estamos aquí para servirte",
+    "¡Gracias a ti! 💫 Que tengas un excelente día"
+  ],
+  "default": [
+    "🤔 No estoy seguro de entender completamente. ¿Podrías reformular tu pregunta?",
+    "💭 Todavía estoy aprendiendo. ¿Puedes ser más específico o usar otras palabras?",
+    "🔍 No tengo una respuesta precisa para eso aún. ¿Puedes intentar preguntar de otra forma?"
+  ]
+}
